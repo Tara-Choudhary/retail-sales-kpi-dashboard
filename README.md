@@ -65,7 +65,7 @@ The dataset contains ~1 million retail transaction records including:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/Retail-Sales-Dashboard.png)
+![Dashboard](Screenshots/Retail-Sales-Dashboard.png)
 
 ---
 
